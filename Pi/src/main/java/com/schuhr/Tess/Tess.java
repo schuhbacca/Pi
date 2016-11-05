@@ -1,4 +1,4 @@
-package com.schuhr.Tess;
+/*package com.schuhr.Tess;
 
 import org.bytedeco.javacpp.*;
 
@@ -38,3 +38,4 @@ public class Tess {
 	}
 
 }
+*/
