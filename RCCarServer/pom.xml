@@ -26,7 +26,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.schur.RCCar.App</mainClass>
+							<mainClass>com.schuhr.RCCar.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
